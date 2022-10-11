@@ -2,16 +2,16 @@
 [![tensorflow](https://img.shields.io/badge/TensorFlow-2.9-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 
-# **Car Sales Prediction**
+# Car Sales Prediction
 
-## **Main objective**: Learn how to create an end-to-end deep learning project using ANN to predict the dollar amount that customers are willing to pay for a new car.
+### **Main objective**: Learn how to create an end-to-end deep learning project using ANN to predict the dollar amount that customers are willing to pay for a new car.
 
 # Description
-### Using the dataset provided by the Ligency Team in its "Machine Learning Practical Workout" course, the aim of this project is to create a tutorial guide of all the stages of a real machine learning project.
+ Using the dataset provided by the Ligency Team in its "Machine Learning Practical Workout" course, the aim of this project is to create a tutorial guide of all the stages of a real machine learning project.
 
-### Throughout this Jupyter Notebook, I'll demonstrate different preprocessing techniques to clear the data, how to get more meaningful insights, and apply feature engineering in order to create extra features that will improve the quality of the results.
+Throughout this Jupyter Notebook, I'll demonstrate different preprocessing techniques to clear the data, how to get more meaningful insights, and apply feature engineering in order to create extra features that will improve the quality of the results.
 
-### Finally, I'll build a Artificial Neural Network using Tensorflow/Keras to predict the output and evaluate the performance of the model.
+Finally, I'll build a Artificial Neural Network using Tensorflow/Keras to predict the output and evaluate the performance of the model.
 
 # Table of Contents
 
